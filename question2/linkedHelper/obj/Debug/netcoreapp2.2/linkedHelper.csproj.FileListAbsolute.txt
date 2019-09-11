@@ -1,0 +1,11 @@
+F:\repos\sample_questions\question2\linkedHelper\bin\Debug\netcoreapp2.2\linkedHelper.deps.json
+F:\repos\sample_questions\question2\linkedHelper\bin\Debug\netcoreapp2.2\linkedHelper.runtimeconfig.json
+F:\repos\sample_questions\question2\linkedHelper\bin\Debug\netcoreapp2.2\linkedHelper.runtimeconfig.dev.json
+F:\repos\sample_questions\question2\linkedHelper\bin\Debug\netcoreapp2.2\linkedHelper.dll
+F:\repos\sample_questions\question2\linkedHelper\bin\Debug\netcoreapp2.2\linkedHelper.pdb
+F:\repos\sample_questions\question2\linkedHelper\obj\Debug\netcoreapp2.2\linkedHelper.csprojAssemblyReference.cache
+F:\repos\sample_questions\question2\linkedHelper\obj\Debug\netcoreapp2.2\linkedHelper.csproj.CoreCompileInputs.cache
+F:\repos\sample_questions\question2\linkedHelper\obj\Debug\netcoreapp2.2\linkedHelper.AssemblyInfoInputs.cache
+F:\repos\sample_questions\question2\linkedHelper\obj\Debug\netcoreapp2.2\linkedHelper.AssemblyInfo.cs
+F:\repos\sample_questions\question2\linkedHelper\obj\Debug\netcoreapp2.2\linkedHelper.dll
+F:\repos\sample_questions\question2\linkedHelper\obj\Debug\netcoreapp2.2\linkedHelper.pdb
