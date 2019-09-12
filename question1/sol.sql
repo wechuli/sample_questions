@@ -28,5 +28,4 @@ VALUES ('Maker A', 'A Model X V6', 20000, '2019-09-03'),
 SELECT CarMaker,CarModel,sum(SalePriceInDollars) TotalSalePrice
 FROM CarSales
 WHERE SaleDate > now() - INTERVAL '30 days'
-GROUP BY
-ROLLUP (CarMaker,CarModel);
+GROUP BY CarMaker,CarMaker;

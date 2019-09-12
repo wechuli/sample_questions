@@ -1,0 +1,10 @@
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLib\bin\Debug\netcoreapp2.2\LinkedListHelperLib.deps.json
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLib\bin\Debug\netcoreapp2.2\LinkedListHelperLib.runtimeconfig.json
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLib\bin\Debug\netcoreapp2.2\LinkedListHelperLib.runtimeconfig.dev.json
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLib\bin\Debug\netcoreapp2.2\LinkedListHelperLib.dll
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLib\bin\Debug\netcoreapp2.2\LinkedListHelperLib.pdb
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLib\obj\Debug\netcoreapp2.2\LinkedListHelperLib.csproj.CoreCompileInputs.cache
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLib\obj\Debug\netcoreapp2.2\LinkedListHelperLib.AssemblyInfoInputs.cache
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLib\obj\Debug\netcoreapp2.2\LinkedListHelperLib.AssemblyInfo.cs
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLib\obj\Debug\netcoreapp2.2\LinkedListHelperLib.dll
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLib\obj\Debug\netcoreapp2.2\LinkedListHelperLib.pdb

@@ -1,0 +1,17 @@
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLibTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLibTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLibTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLibTest\bin\Debug\netcoreapp2.2\LinkedListHelperLibTest.deps.json
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLibTest\bin\Debug\netcoreapp2.2\LinkedListHelperLibTest.runtimeconfig.json
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLibTest\bin\Debug\netcoreapp2.2\LinkedListHelperLibTest.runtimeconfig.dev.json
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLibTest\bin\Debug\netcoreapp2.2\LinkedListHelperLibTest.dll
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLibTest\bin\Debug\netcoreapp2.2\LinkedListHelperLibTest.pdb
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLibTest\bin\Debug\netcoreapp2.2\LinkedListHelperLib.dll
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLibTest\bin\Debug\netcoreapp2.2\LinkedListHelperLib.pdb
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLibTest\obj\Debug\netcoreapp2.2\LinkedListHelperLibTest.csprojAssemblyReference.cache
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLibTest\obj\Debug\netcoreapp2.2\LinkedListHelperLibTest.csproj.CoreCompileInputs.cache
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLibTest\obj\Debug\netcoreapp2.2\LinkedListHelperLibTest.AssemblyInfoInputs.cache
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLibTest\obj\Debug\netcoreapp2.2\LinkedListHelperLibTest.AssemblyInfo.cs
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLibTest\obj\Debug\netcoreapp2.2\LinkedListHelperLibTest.csproj.CopyComplete
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLibTest\obj\Debug\netcoreapp2.2\LinkedListHelperLibTest.dll
+C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLibTest\obj\Debug\netcoreapp2.2\LinkedListHelperLibTest.pdb
