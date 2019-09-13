@@ -8,3 +8,14 @@ C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLib\obj\Debug\netco
 C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLib\obj\Debug\netcoreapp2.2\LinkedListHelperLib.AssemblyInfo.cs
 C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLib\obj\Debug\netcoreapp2.2\LinkedListHelperLib.dll
 C:\Users\Wechuli\Desktop\LinkedListHelperLib\LinkedListHelperLib\obj\Debug\netcoreapp2.2\LinkedListHelperLib.pdb
+F:\repos\sample_questions\question2\LinkedListHelperLib\LinkedListHelperLib\bin\Debug\netcoreapp2.2\LinkedListHelperLib.deps.json
+F:\repos\sample_questions\question2\LinkedListHelperLib\LinkedListHelperLib\bin\Debug\netcoreapp2.2\LinkedListHelperLib.runtimeconfig.json
+F:\repos\sample_questions\question2\LinkedListHelperLib\LinkedListHelperLib\bin\Debug\netcoreapp2.2\LinkedListHelperLib.runtimeconfig.dev.json
+F:\repos\sample_questions\question2\LinkedListHelperLib\LinkedListHelperLib\bin\Debug\netcoreapp2.2\LinkedListHelperLib.dll
+F:\repos\sample_questions\question2\LinkedListHelperLib\LinkedListHelperLib\bin\Debug\netcoreapp2.2\LinkedListHelperLib.pdb
+F:\repos\sample_questions\question2\LinkedListHelperLib\LinkedListHelperLib\obj\Debug\netcoreapp2.2\LinkedListHelperLib.csprojAssemblyReference.cache
+F:\repos\sample_questions\question2\LinkedListHelperLib\LinkedListHelperLib\obj\Debug\netcoreapp2.2\LinkedListHelperLib.csproj.CoreCompileInputs.cache
+F:\repos\sample_questions\question2\LinkedListHelperLib\LinkedListHelperLib\obj\Debug\netcoreapp2.2\LinkedListHelperLib.AssemblyInfoInputs.cache
+F:\repos\sample_questions\question2\LinkedListHelperLib\LinkedListHelperLib\obj\Debug\netcoreapp2.2\LinkedListHelperLib.AssemblyInfo.cs
+F:\repos\sample_questions\question2\LinkedListHelperLib\LinkedListHelperLib\obj\Debug\netcoreapp2.2\LinkedListHelperLib.dll
+F:\repos\sample_questions\question2\LinkedListHelperLib\LinkedListHelperLib\obj\Debug\netcoreapp2.2\LinkedListHelperLib.pdb

@@ -12,7 +12,7 @@ namespace LinkedListHelperLibTest
             // Arrange
             DynamicList<char> shoppingList = new DynamicList<char>();
             shoppingList.Add('E');
-            shoppingList.Add('B'); //Empty List
+            shoppingList.Add('B'); 
             shoppingList.Add('E');
             shoppingList.Add('E');
             shoppingList.Add('B');

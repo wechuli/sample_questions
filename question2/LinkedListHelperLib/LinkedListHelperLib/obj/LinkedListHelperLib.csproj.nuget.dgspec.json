@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wechuli\\Desktop\\LinkedListHelperLib\\LinkedListHelperLib\\LinkedListHelperLib.csproj": {}
+    "F:\\repos\\sample_questions\\question2\\LinkedListHelperLib\\LinkedListHelperLib\\LinkedListHelperLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wechuli\\Desktop\\LinkedListHelperLib\\LinkedListHelperLib\\LinkedListHelperLib.csproj": {
+    "F:\\repos\\sample_questions\\question2\\LinkedListHelperLib\\LinkedListHelperLib\\LinkedListHelperLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wechuli\\Desktop\\LinkedListHelperLib\\LinkedListHelperLib\\LinkedListHelperLib.csproj",
+        "projectUniqueName": "F:\\repos\\sample_questions\\question2\\LinkedListHelperLib\\LinkedListHelperLib\\LinkedListHelperLib.csproj",
         "projectName": "LinkedListHelperLib",
-        "projectPath": "C:\\Users\\Wechuli\\Desktop\\LinkedListHelperLib\\LinkedListHelperLib\\LinkedListHelperLib.csproj",
+        "projectPath": "F:\\repos\\sample_questions\\question2\\LinkedListHelperLib\\LinkedListHelperLib\\LinkedListHelperLib.csproj",
         "packagesPath": "C:\\Users\\Wechuli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wechuli\\Desktop\\LinkedListHelperLib\\LinkedListHelperLib\\obj\\",
+        "outputPath": "F:\\repos\\sample_questions\\question2\\LinkedListHelperLib\\LinkedListHelperLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
