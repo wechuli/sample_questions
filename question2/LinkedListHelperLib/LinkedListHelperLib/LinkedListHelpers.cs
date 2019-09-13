@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LinkedListHelperLib
 {
-    public class LinkedListHelpers
+    public static class LinkedListHelpers
     {
 
         public static void RemoveNodesRepeatingMoreThanTwoTimes(DynamicList<char> list)
